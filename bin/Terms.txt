@@ -1,0 +1,62 @@
+Corps
+Safe-haven for draconic creatures.
+Demons
+Spirits of despair and destruction spawned by the goddess Nora.
+Dragon
+Descendents of the Titanics. Magical beasts that protect Ibinor from demons.
+Draklans
+Half-human half-dragon people created by magic.
+Fae
+Beings including and related to fairies (sprites, elves, nymphs, pixies, nives, etc).
+Fairies
+Small, winged nature beings of the 12 elements, created by the goddess Ibis.
+Elves
+Descendents of fairies and humans.
+Nives
+Descendents of pixies and humans and/or former elves afflicted by demons.
+Nymph
+Immortal elementals, former humans pledged to serve fairies.
+Seelie
+Fae unafflicted by demons OR the months of summer and autumn and their associated elements: light, flora, fire, water, fauna, metal.
+Titanics
+The first dragons. God-like beings that represent elements and values, created by the goddess Titania.
+Vampires
+Immortal bloodsuckers, former humans pledged to serve demons.
+Unseelie
+Fae afflicted by demons OR the months of spring and winter and their associated elements: darkness, stars, ice, electricity, earth, air.
+Witches
+Descendents of demons and humans.
+Pixies
+Fairies afflicted by demons and/or their descendents.
+Seers
+Those with the power to see truth.
+Sprites
+Former fairies that ascended to pure elemental energy.
+Drakwick
+Half-dragon, half-witch.
+Element
+12 categories of nature that fuel many magical creatures: darkness, light, fire, ice, water, flora, fauna, earth, metal, ice, electricity, air.
+Ghouls
+Primitive version of vampires, former humans turned mindless demonic flesh-eaters.
+Humans
+Intelligent bipeds that lack any magical skill.
+Mages
+Any magic users.
+Wizards
+Humans born with magic.
+Sorcerery
+Stealing magic from others for one's own use.
+Phoenixes
+Immortal birds embodying the elements of fire and light.
+Zephyrs
+Immortal birds embodying the elements of air and electricity.
+Ibinor
+World home to fae, demons, dragons, and humans, gifted by the goddess Titania to her twin daughters Ibis and Nora.
+Changelings
+Shape-shifters embodying the elements of flora and fauna.
+Undines
+Beautiful humanoids embodying the elements of water and ice.
+Espers
+Cat-like spirits embodying the elements of stars and darkness.
+Dwarves
+Homely humanoids embodying the elements of earth and metal.

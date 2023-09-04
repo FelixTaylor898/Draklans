@@ -1,0 +1,19 @@
+There are 12 months, 30 days each.
+Each month represents and element and a value.
+
+01st: Bellim - Darkness and Protection
+02nd: Soulim - Stars and Wisdom
+03rd: Yvim - Air and Serenity
+04th: Lerim - Electricity and Strength
+05th: Tillim - Earth and Hope
+06th: Inim - Light and Love
+07th: Jonim - Fire and Bravery
+08th: Ayim - Flora and Creativity
+09th: Morjim - Metal and Justice
+10th: Naylim - Fauna and Nurturing
+11th: Rivim - Water and Joy
+12th: Hirim - Ice and Empathy
+
+At the end of the year, there is Reflectim: 5 days of reflection.
+
+There are 7 days in a week:  Ilioday, Fenday, Sterday, Ouraday, Giday, Neroday, Zoiday.

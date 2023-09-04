@@ -1,0 +1,68 @@
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.GridLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+
+public class TypesFrame {
+
+    static JFrame frame;
+    static JPanel buttons, panel;
+    public TypesFrame() {
+    	
+        buttons = new JPanel(new GridLayout(4, 3));
+
+    	
+        if (frame != null)
+            frame.dispose();
+        frame = new JFrame("Dragon Types");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setResizable(true);
+        
+        
+        for (Type type : TypeData.types) {
+        	JButton typeButton = new JButton(type.getName());
+        	typeButton.setFocusable(false);
+        	typeButton.setBackground(type.getRgb());
+        	if (type.getRgb().equals(Color.BLACK))
+        		typeButton.setForeground(Color.WHITE);
+            typeButton.addActionListener(new ActionListener() {
+                @Override
+                public void actionPerformed(ActionEvent arg0) {
+                    frame.dispose();
+                    new TypeFrame(type);
+                }
+            });
+        	buttons.add(typeButton);
+        }
+        
+
+
+        panel = new JPanel(new BorderLayout());
+        
+        JButton backButton = new JButton("Back");
+        backButton.setBackground(Color.WHITE);
+        backButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                frame.dispose();
+                new MainFrame();
+            }
+        });
+        backButton.setFocusable(false);
+        panel.add(backButton, BorderLayout.NORTH);
+
+        panel.add(buttons, BorderLayout.SOUTH);
+        
+        frame.add(panel);
+        frame.pack();
+        frame.setVisible(true);
+
+
+
+    }
+}

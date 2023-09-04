@@ -1,0 +1,16 @@
+Talon Drait
+Male
+15 Tillim 1214
+Salamander draklan, seer
+Mousy hair and red eyes. Scarlet scales, black horns and spikes, crimson wing webs and black wing arms. Small and weak runt of a draklan.
+Prior to hatching, his egg was stolen from Valoria by Yuline Drait. Eldiza cast a spell to turn him into a human, but it wore off on his 16th birthday. He transformed back into a draklan and was sent to live in Valoria, where he was met with suspicion and distrust due to his upbringing. He sought nothing more than to become human again, but some have other plans for him.
+Son of Kresvan and Yuline Drait. Brother to Melinda and Lelah Drait. Draklan to Cirrus.
+src/talon.png
+Lelah Drait
+Female
+5 Hirim 1212
+Human
+Shoulder-length sandy-blonde hair, robin-egg eyes.
+Aloof and avoidant, works in her own stables, feeling closer to nature and animals than other people. Is secretly against the war on dragons, and does not wish her brother to become a knight.
+Daughter of Kresvan and Yuline Drait. Brother to Melinda and Talon Drait.
+src/lelah.png
